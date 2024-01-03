@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Flávio Ferreira</h1>
-<h3 align="center">A passionate frontend developer from Brazil building 1% every day!</h3>
+<h3 align="center">A passionate softwqare developer from Brazil building 1% every day!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavi2101&label=Profile%20views&color=0e75b6&style=flat" alt="flavi2101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flavi2101" alt="flavi2101" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, HTML,CSS, react, SASS**
-
-- 💬 Ask me about **you decide!**
 
 - 📫 How to reach me **flavi2101@gmail.com**
 
